@@ -1,4 +1,4 @@
-Page 1
+//Page 1
 // get all categories
 //Live url on Render.com
 https://ecomapi-9zop.onrender.com/categories
@@ -6,7 +6,7 @@ https://ecomapi-9zop.onrender.com/categories
 //local url while testing in postman
 http://localhost:5001/categories
 
-Page 2
+//Page 2
 // get all brands
 //Live url on Render.com
 https://ecomapi-9zop.onrender.com/brands
@@ -14,7 +14,7 @@ https://ecomapi-9zop.onrender.com/brands
 //local url while testing in postman
 http://localhost:5001/brands
 
-Page 3
+//Page 3
 // get all products
 //Live url on Render.com
 https://ecomapi-9zop.onrender.com/products
@@ -22,7 +22,7 @@ https://ecomapi-9zop.onrender.com/products
 //local url while testing in postman
 http://localhost:5001/products
 
-Page 4
+//Page 4
 // get all users
 //Live url on Render.com
 https://ecomapi-9zop.onrender.com/users
@@ -30,7 +30,7 @@ https://ecomapi-9zop.onrender.com/users
 //local url while testing in postman
 http://localhost:5001/users
 
-Page 5
+//Page 5
 // get all cart
 //Live url on Render.com
 https://ecomapi-9zop.onrender.com/cart
@@ -38,7 +38,7 @@ https://ecomapi-9zop.onrender.com/cart
 //local url while testing in postman
 http://localhost:5001/cart
 
-Page 6
+//Page 6
 // get all orders
 //Live url on Render.com
 https://ecomapi-9zop.onrender.com/orders
